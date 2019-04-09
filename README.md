@@ -14,7 +14,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 # How to run the project :
 
 * Clone the repository :
-`https://github.com/9snehal/Timestamp-express.git`
+https://github.com/9snehal/Timestamp-express.git
 
 * Navigate to the repository: cd timestamp-microservice
 
